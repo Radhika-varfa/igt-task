@@ -73,7 +73,7 @@ const Navbar = () => {
             {/* <img src="./image3.jpeg" alt="Image" className="card-image" /> */}
             <video
               id="heroVideo"
-              src="./vedioplayback.mp4"
+              src="/vedioplayback.mp4"
               className="card-video"
               muted
               loop
